@@ -1,5 +1,5 @@
 Sentiment Analysis with Bidirectional LSTM
-Course Project — Artificial Intelligence | Ege University, Dept. of Computer Engineering (2020–2021)
+Course Project — Artificial Intelligence | Ege University, Dept. of Computer Engineering
 
 Overview
 This project implements a sentiment analysis pipeline using a Bidirectional LSTM neural network with pre-trained GloVe word embeddings. The model is trained on the IMDB movie reviews dataset (50,000 reviews) to classify text as positive or negative. The project is then extended to a real-world application: live Twitter sentiment analysis using the Twitter API.
